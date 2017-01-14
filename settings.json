@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 12,
+    "editor.formatOnType": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "javascript.suggest.useCodeSnippetsOnMethodSuggest": false,
+    "typescript.useCodeSnippetsOnMethodSuggest": false,
+    "files.autoSaveDelay": 500,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.DS_Store": true,
+        "node_modules": false
+    },
+    "workbench.editor.showTabs": false,
+    "typescript.check.tscVersion": false,
+    "typescript.check.workspaceVersion": false
+}
