@@ -16,5 +16,7 @@
     },
     "workbench.editor.showTabs": false,
     "typescript.check.tscVersion": false,
-    "typescript.check.workspaceVersion": false
+    "typescript.check.workspaceVersion": false,
+    "workbench.colorTheme": "Monokai",
+    "editor.minimap.enabled": false
 }
