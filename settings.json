@@ -18,5 +18,7 @@
     "typescript.check.tscVersion": false,
     "typescript.check.workspaceVersion": false,
     "workbench.colorTheme": "Monokai",
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true,
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
